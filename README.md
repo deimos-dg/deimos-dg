@@ -1,4 +1,4 @@
-# 👋 Hola, soy **Axel Díaz**
+# 👋 Hola, soy **Axel Díaz** 🐧🐍
 
 💻 **Ingeniero en Sistemas | Especialista en Seguridad Informática**
 📍 Ciudad de México
@@ -35,9 +35,14 @@ Actualmente curso una **Maestría en Seguridad de la Información**, donde forta
 * 🎓 **Ingeniería en Sistemas Computacionales** — UNITEC Sur
 * 📜 Cursos:
 
+  * Fundamentos de Linux – *Hack the box*
   * Linux & Pentesting Fundamentals — *Hack The Box*
+  * Technical Support Fundamentals - *Google*
+  * Pre Security - *TryHackMe*
+  * Análisis forense digital - *TryHackme*
   * COBOL Fundamentals — *Minsait*
-  * ISO 27001 Fundamentals
+  * ISO 27001 Fundamentals - *Grupo Hub*
+  * Ingenieria social - *Grupo Hub*
   * Técnicas de Pentesting y **Ingeniería Social**
 
 ---
@@ -51,5 +56,5 @@ Actualmente curso una **Maestría en Seguridad de la Información**, donde forta
 
 ## 🌐 Conéctemos
 
-🔗 [LinkedIn](https://www.linkedin.com/in/axeldg/) | 💻 [GitHub](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/axeldg/) 
 
