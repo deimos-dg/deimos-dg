@@ -14,26 +14,18 @@ Actualmente curso una **Maestría en Seguridad de la Información**, donde forta
 
 ---
 
-## 💼 Experiencia Profesional
-
-### 🔹 Minsait — *Jr Systems Engineer* (Sep 2024 - Dic 2024)
-
-* Desarrollo de **APIs en Java** y consultas en **SQL**.
-* Implementación de **conceptos de seguridad en aplicaciones web**.
-
-### 🔹 Grupo Fórmula — *Soporte Técnico* (Sep 2023 - Sep 2024)
-
-* Administración de **servidores Linux (Debian/Kali)** y configuración de seguridad.
-* **Automatización de procesos** con **Python/Bash** para monitoreo de infraestructura.
-
----
-
 ## 🛠️ Habilidades Técnicas
 
 * **Seguridad Web**: Fundamentos ISO 27001
-* **Herramientas**: Nmap · Postman · VS Code · Hydra
+* **Herramientas**: JetBrains · Postman · VS Code 
 * **Lenguajes**: Python · Java · SQL · Bash
 * **Sistemas Operativos**: Linux (Debian, Kali)
+
+## 🐧💻 Kali Linux
+
+* **Fuerza bruta de contraseñas** : 🐉🔑 Hydra · 🧑‍💻🔓 John the Ripper
+* **Red** :  🐟🌊 Wireshark · 🛰️📡 Nmap 
+* **Pruebas de penetración** : 🛠️💥 Metasploit
 
 ---
 
